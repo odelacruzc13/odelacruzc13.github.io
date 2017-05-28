@@ -1,6 +1,7 @@
 @CHARSET "UTF-8";
 
 #menu{
+	text-align: center;
 	background: #5ccccc;
 	padding: 5px 15px;
 }
