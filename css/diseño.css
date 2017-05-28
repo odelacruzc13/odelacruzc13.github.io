@@ -1,5 +1,7 @@
 @CHARSET "UTF-8";
 
-p{
-	text-align: justify;
+#pie{
+	text-align: center;
+	padding: 20px;
+	border-top: 2px solid black;
 }
