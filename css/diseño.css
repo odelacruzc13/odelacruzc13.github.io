@@ -1,12 +1,13 @@
 @CHARSET "UTF-8";
 
 #menu{
+	text-align: center;
 	background: #f3b57c;
 	padding: 5px 15px;
 }
 
 #menu li {
-	text-align: center;
+	
 	display: inline-block;
 	list-style: none;
 	padding: 5px;
@@ -15,7 +16,5 @@
 
 body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
-body{
-	
-}
+
 
