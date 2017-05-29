@@ -14,5 +14,23 @@
 	font: bold 14 px  verdana, sans-serif;
 }
 
+.menuiz{
+	float: left;
+	width: 20%; 
+	margin: 20px;
+}
+
+.seccion_centro{
+	float: left;
+	width: 60%;
+	margin: 20px
+}
+
+.aside_derecha{
+	float: left;
+	width: 20%;
+	margin: 20px
+}
+
 
 
