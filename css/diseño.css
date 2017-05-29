@@ -16,5 +16,18 @@
 
 body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
+#ani{
+	 animation-duration: 3s;
+  animation-name: slidein;
+}
 
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%
+  }
 
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
