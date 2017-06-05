@@ -1,5 +1,5 @@
 @CHARSET "UTF-8";
-.icon01{
+#icon01{
 	width: 200px;
 	height: 200px;
 }
@@ -8,6 +8,11 @@
 	text-align: center;
 	background: #f3b57c;
 	padding: 5px 15px;
+}
+
+.cambio{
+	width: 200px;
+	height: 200px;
 }
 
 #menu li {
