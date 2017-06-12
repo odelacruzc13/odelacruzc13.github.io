@@ -41,6 +41,10 @@
 	margin: 20px
 }
 
+.lateral{
+	float: left;
+}
+
 .plaza{
 	width: 90%;
 }
